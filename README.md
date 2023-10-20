@@ -54,20 +54,20 @@ This project showcases how to create a Django web server with a "Product" model,
 
 ## Usage
 
-1. Start the Django web server:
+- **Start the Django web server:**
 
-   ```bash
-   cd homebase_django_fe
-   python manage.py runserver
-   ```
+  ```bash
+  cd homebase_django_fe
+  python manage.py runserver
+  ```
 
-   Access the Django admin interface at `http://localhost:8000/admin`.
+  Access the Django admin interface at `http://localhost:8000/admin`.
 
 ## Configuration
 
-1. Django Configuration:
-   - Configure your database settings in `settings.py`.
-   - Create a superuser to access the admin interface: `python manage.py createsuperuser`.
+- **Django Configuration:**
+  - Configure your database settings in `settings.py`.
+  - Create a superuser to access the admin interface: `python manage.py createsuperuser`.
 
 ## API Endpoints
 
