@@ -35,8 +35,8 @@ This project showcases how to create a Django web server with a "Product" model,
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/yourproject.git
-   cd yourproject
+   git clone https://github.com/ncbinh98/homebase-task-django-fe.git
+   cd homebase-task-django-fe
    ```
 ````
 
